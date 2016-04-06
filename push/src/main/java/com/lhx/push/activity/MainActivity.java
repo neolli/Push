@@ -15,6 +15,10 @@ import cn.jpush.android.api.TagAliasCallback;
 
 /**
  * 极光推送
+ *
+ * 发送通知有Notification提示
+ * 发送自定义消息需要程序根据收到的消息进行下一步处理
+ *
  */
 public class MainActivity extends Activity {
 
